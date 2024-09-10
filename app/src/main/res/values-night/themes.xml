@@ -1,6 +1,14 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
+<<<<<<< HEAD
     <style name="Base.Theme.DiceRandom" parent="Theme.Material3.DayNight.NoActionBar">
+=======
+<<<<<<< HEAD
+    <style name="Base.Theme.Sum" parent="Theme.Material3.DayNight.NoActionBar">
+=======
+    <style name="Base.Theme.ChuyendoiNAM" parent="Theme.Material3.DayNight.NoActionBar">
+>>>>>>> 9f28a4658eccf6c129811a56fa26fe8962302069
+>>>>>>> ac72a9768226d9cc28e07fca2b242f46b0e785d5
         <!-- Customize your dark theme here. -->
         <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
     </style>

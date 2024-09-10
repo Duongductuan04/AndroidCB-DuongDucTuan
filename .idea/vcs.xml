@@ -2,5 +2,9 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+<<<<<<< HEAD
+=======
+    <mapping directory="$PROJECT_DIR$/AndroidCB-DuongDucTuan" vcs="Git" />
+>>>>>>> ac72a9768226d9cc28e07fca2b242f46b0e785d5
   </component>
 </project>

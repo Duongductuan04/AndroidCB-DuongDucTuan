@@ -3,11 +3,14 @@ plugins {
 }
 
 android {
-    namespace = "com.example.dicerandom"
+    // Chọn một namespace phù hợp với dự án của bạn
+    namespace = "com.example.dicerandom" // Hoặc "com.example.sum" hoặc "com.example.chuyendoinam"
+
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.dicerandom"
+        // Chọn một applicationId phù hợp với namespace đã chọn
+        applicationId = "com.example.dicerandom" // Hoặc "com.example.sum" hoặc "com.example.chuyendoinam"
         minSdk = 24
         targetSdk = 34
         versionCode = 1
@@ -25,6 +28,7 @@ android {
             )
         }
     }
+
     compileOptions {
         sourceCompatibility = JavaVersion.VERSION_1_8
         targetCompatibility = JavaVersion.VERSION_1_8
@@ -32,7 +36,6 @@ android {
 }
 
 dependencies {
-
     implementation(libs.appcompat)
     implementation(libs.material)
     implementation(libs.activity)

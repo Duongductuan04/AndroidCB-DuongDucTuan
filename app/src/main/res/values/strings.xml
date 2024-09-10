@@ -1,3 +1,11 @@
 <resources>
+<<<<<<< HEAD
     <string name="app_name">Dice Random</string>
+=======
+<<<<<<< HEAD
+    <string name="app_name">Sum</string>
+=======
+    <string name="app_name">ChuyendoiNAM</string>
+>>>>>>> 9f28a4658eccf6c129811a56fa26fe8962302069
+>>>>>>> ac72a9768226d9cc28e07fca2b242f46b0e785d5
 </resources>
