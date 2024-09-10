@@ -1,9 +1,17 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
+<<<<<<< HEAD
     <style name="Base.Theme.Sum" parent="Theme.Material3.DayNight.NoActionBar">
+=======
+    <style name="Base.Theme.ChuyendoiNAM" parent="Theme.Material3.DayNight.NoActionBar">
+>>>>>>> 9f28a4658eccf6c129811a56fa26fe8962302069
         <!-- Customize your light theme here. -->
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
     </style>
 
+<<<<<<< HEAD
     <style name="Theme.Sum" parent="Base.Theme.Sum" />
+=======
+    <style name="Theme.ChuyendoiNAM" parent="Base.Theme.ChuyendoiNAM" />
+>>>>>>> 9f28a4658eccf6c129811a56fa26fe8962302069
 </resources>

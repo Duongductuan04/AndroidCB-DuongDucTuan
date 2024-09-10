@@ -19,6 +19,10 @@ dependencyResolutionManagement {
     }
 }
 
+<<<<<<< HEAD
 rootProject.name = "Sum"
+=======
+rootProject.name = "ChuyendoiNAM"
+>>>>>>> 9f28a4658eccf6c129811a56fa26fe8962302069
 include(":app")
  

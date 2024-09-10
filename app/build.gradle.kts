@@ -3,11 +3,19 @@ plugins {
 }
 
 android {
+<<<<<<< HEAD
     namespace = "com.example.sum"
     compileSdk = 34
 
     defaultConfig {
         applicationId = "com.example.sum"
+=======
+    namespace = "com.example.chuyendoinam"
+    compileSdk = 34
+
+    defaultConfig {
+        applicationId = "com.example.chuyendoinam"
+>>>>>>> 9f28a4658eccf6c129811a56fa26fe8962302069
         minSdk = 24
         targetSdk = 34
         versionCode = 1
